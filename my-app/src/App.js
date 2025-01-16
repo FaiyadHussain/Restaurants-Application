@@ -15,7 +15,7 @@ function App() {
         <Container>
           <Navbar.Brand>
             <Link to="/" className="navbar-brand text-success fw-semibold">
-              Roast & Cruch Cafe
+              ROAST & KRUNCH CAFE
             </Link>
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
